@@ -1,5 +1,5 @@
 # Template
 
-CAD files for my Notes garden design template
+CAD template files for my forest garden projects
 
 [github.com/growdigital/Notes](github.com/growdigital/Notes)
