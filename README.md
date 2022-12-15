@@ -2,4 +2,4 @@
 
 CAD template files for template project
 
-<https://notes.grwd.uk/>
+<https://grwd.uk/template>
