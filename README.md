@@ -4,4 +4,4 @@
 
 CAD template file with nicely coloured layers.
 
-Specifically for use with my [template project](https://grwd.uk/template)
+Specifically for use with my template project [grwd.uk/template](https://grwd.uk/template)
